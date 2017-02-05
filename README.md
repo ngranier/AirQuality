@@ -8,13 +8,9 @@ https://github.com/GeorgK/MQ135
 Other Lib:
 
 ESP8266WiFi.h
-
 Wire.h
-
 SPI.h
-
 Adafruit_Sensor.h
-
 Adafruit_BME280.h
 
 
