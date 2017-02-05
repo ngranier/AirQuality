@@ -2,7 +2,16 @@
 AirQuality sensor based on Wemos / BME280 / MQ135 for Jeedom
 
 Lib to be added in the sketch:
+
 https://github.com/GeorgK/MQ135
+
+Other Lib:
+ESP8266WiFi.h
+Wire.h
+SPI.h
+Adafruit_Sensor.h
+Adafruit_BME280.h
+
 
 Calibration:
 - Power the system for 48H
